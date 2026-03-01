@@ -14,7 +14,7 @@ public class Piece {
     protected String currentPosition;
     
     public Piece(String color) throws InvalidColorException{
-        if(!color.toLowerCase().equals("bianco") || !color.toLowerCase().equals("nero")){
+        if(!color.toLowerCase().equals("white") && !color.toLowerCase().equals("black")){
             throw new InvalidColorException();
         }
         this.color = color;

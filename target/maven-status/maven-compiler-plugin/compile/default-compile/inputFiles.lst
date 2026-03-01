@@ -1,6 +1,11 @@
+C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\Bishop.java
 C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\ChessBoard.java
 C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\ChessGame.java
 C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\exceptions\InvalidColorException.java
 C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\exceptions\InvalidSquareException.java
 C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\King.java
+C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\Knight.java
+C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\Pawn.java
 C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\Piece.java
+C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\Queen.java
+C:\Users\Fabio\Documents\NetBeansProjects\ChessGame\src\main\java\com\mycompany\chessgame\Rook.java

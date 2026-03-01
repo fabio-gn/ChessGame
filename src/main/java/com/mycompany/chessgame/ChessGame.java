@@ -17,8 +17,10 @@ public class ChessGame {
 
     public static void main(String[] args) {
         ChessBoard cb = new ChessBoard();
+        cb.initializePieces();
+        
         try {
-            System.out.println(cb.getSquare("a9"));
+            System.out.println(cb.getSquare("e8"));
         } catch (InvalidSquareException ex) {
             Logger.getLogger(ChessGame.class.getName()).log(Level.SEVERE, null, ex);
         }

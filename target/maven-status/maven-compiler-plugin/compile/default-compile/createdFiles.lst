@@ -1,6 +1,11 @@
 com\mycompany\chessgame\ChessGame.class
-com\mycompany\chessgame\King.class
+com\mycompany\chessgame\Queen.class
+com\mycompany\chessgame\Bishop.class
 com\mycompany\chessgame\exceptions\InvalidColorException.class
+com\mycompany\chessgame\Rook.class
 com\mycompany\chessgame\ChessBoard.class
 com\mycompany\chessgame\exceptions\InvalidSquareException.class
+com\mycompany\chessgame\King.class
+com\mycompany\chessgame\Pawn.class
 com\mycompany\chessgame\Piece.class
+com\mycompany\chessgame\Knight.class
