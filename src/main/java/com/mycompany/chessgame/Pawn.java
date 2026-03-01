@@ -24,7 +24,7 @@ public class Pawn extends Piece{
     
     @Override
     public void move(){
-        
+        //metodo move
     }
     
 }
