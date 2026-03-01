@@ -1,0 +1,6 @@
+com\mycompany\chessgame\ChessGame.class
+com\mycompany\chessgame\King.class
+com\mycompany\chessgame\exceptions\InvalidColorException.class
+com\mycompany\chessgame\ChessBoard.class
+com\mycompany\chessgame\exceptions\InvalidSquareException.class
+com\mycompany\chessgame\Piece.class
